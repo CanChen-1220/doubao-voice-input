@@ -1,0 +1,7 @@
+credentials.json
+voice_hotkey.log
+voice_hotkey.log.1
+voice_hotkey.history.txt
+voice_hotkey.pid
+__pycache__/
+*.pyc
